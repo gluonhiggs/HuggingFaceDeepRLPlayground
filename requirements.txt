@@ -1,0 +1,8 @@
+stable-baselines3==2.5.0
+swig==4.3.0
+gymnasium[box2d]
+huggingface_sb3==3.0
+pyvirtualdisplay==3.0
+jupyter==1.1.1
+torch==2.6.0
+torchvision==0.21.0
