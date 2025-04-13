@@ -1,0 +1,13 @@
+Best trial:
+  Value: 6.7
+  Params:
+    frame_stack: 5
+    buffer_size: 100000
+    learning_rate: 6.890100069239686e-05
+    batch_size: 128
+    learning_starts: 100000
+    target_update_interval: 4000
+    train_freq: 7
+    gradient_steps: 8
+    exploration_fraction: 0.377754326148857
+    exploration_final_eps: 0.010154720684853836

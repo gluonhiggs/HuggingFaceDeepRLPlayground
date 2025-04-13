@@ -1,0 +1,5 @@
+submission*.csv
+*.zip
+*.png
+.ipynb_checkpoints
+logs
